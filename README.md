@@ -9,78 +9,75 @@
 1. What is the first step for installing Dart on a Windows machine?
 
 
-B) Download the Dart SDK
+ Download the Dart SDK
 
 
 
 2. Which command verifies the Dart installation on macOS?
 
 
-D) dart --version
-The correct answer is D
+dart --version
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
 
 
-B) Update your PATH
-The correct answer is B
+ Update your PATH
+
 
 4. What command is used to run a newly created Flutter app?
 
+ flutter run
 
-C) flutter run
-The correct answer is C
 
 #Python Installation
 
 What is the first step to install Python on a Windows system?
 
-B) Download Python from the official website
-The correct answer is B
+ Download Python from the official website
+
 
 Which option should you ensure is checked during Python installation on Windows?
 
-C) Add Python to PATH
-The correct answer is C
+ Add Python to PATH
+
 
 How do you verify Python installation on any system?
 
-A) By running python --version
-The correct answer A
+ By running python --version
+
 
 What command is used to install pip on macOS and Linux?
+ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
-C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-The correct answer is C
 
 What is the purpose of a virtual environment in Python?
 
-C) To separate project dependencies and avoid conflicts
-The correct answer is C
+ To separate project dependencies and avoid conflicts
+
 
 #MySQL Installation
 
 What is the first step to install MySQL on Windows
 
-B) Download MySQL Installer from the official website
-The correct answer is B
+ Download MySQL Installer from the official website
+
 
 What setup type should you choose for a custom MySQL installation?
 
-D) Custom
-The correct answer is D
+ Custom
+
 
 Which products should you select during the MySQL installation?
 
-A) MySQL Server, MySQL Workbench, and MySQL Shell
-The correct answer is A
+ MySQL Server, MySQL Workbench, and MySQL Shell
+
 
 What is the purpose of setting a root password during MySQL installation?
 
-B) To secure your MySQL installation with a super-secret password
-The correct answer is B
+ To secure your MySQL installation with a super-secret password
+
 
 How do you begin managing your database after installing MySQL?
 
-B) Launch MySQL Workbench and connect to your MySQL Server
-The correct answer is B
+ Launch MySQL Workbench and connect to your MySQL Server
+
